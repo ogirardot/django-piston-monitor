@@ -1,6 +1,8 @@
 Django-piston-monitor - A monitoring framework for Piston
 ====================================
 
+!! This is not production ready !!
+
 A monitoring framework to better understand how your APIs are used 
 when using Django-piston. 
 This add-on will handle all calls asynchronously to be perfectly
